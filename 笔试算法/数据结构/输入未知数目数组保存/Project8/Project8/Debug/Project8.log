@@ -1,8 +1,0 @@
-﻿  源.cpp
-c:\users\wzs\source\repos\project8\project8\源.cpp(24): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
-          with
-          [
-              _Ty=int
-          ]
-c:\users\wzs\source\repos\project8\project8\源.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
-  Project8.vcxproj -> C:\Users\wzs\source\repos\Project8\Debug\Project8.exe
